@@ -90,7 +90,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
 				<script
 					defer
 					src="https://dataxamas.izakdvlpr.com/dataxamas.js"
-					data-website-id="84cd84d9-f35a-4b17-8e39-8dc3901d499b"
+					data-api-key="dx_live_lthMc2o-3SY5xhraaiQxHo4-KjzXL-VGITRfjjotIRo"
 					data-allow-localhost="true"
 				/>
 			</head>
